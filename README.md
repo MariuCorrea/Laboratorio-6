@@ -22,6 +22,7 @@ FDC 4877
 
 ### LISTA DE COMPONENTES
 
+![Lista de Componentes](https://user-images.githubusercontent.com/76136485/109244995-b2ef3200-77ad-11eb-89fe-554201578d30.png)
 
 ### TABLAS
 
