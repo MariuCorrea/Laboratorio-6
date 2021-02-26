@@ -18,6 +18,10 @@ FDC 4877
 
 ### DIAGRAMAS
 
+![Diagrama 1](https://user-images.githubusercontent.com/76136485/109260338-f6589900-77cb-11eb-9441-1de15e5c9656.png)
+
+![Diagrama 2](https://user-images.githubusercontent.com/76136485/109260345-f8baf300-77cb-11eb-8e9e-f0499e041e9c.png)
+
 
 ### PREGUNTAS 
 
