@@ -33,7 +33,7 @@ FDC 4877
 
 7.5.4. Responda las siguientes preguntas:
 -	¿Cuántas divisiones por cuadro abarca la amplitud pico de la señal de salida?
-9.72 
+4.5
 -	¿En qué valor está posicionada la perilla VOLTS/DIV?
 3V
 -	¿Cuántas divisiones por cuadro abarca un ciclo completo de la señal de salida?
