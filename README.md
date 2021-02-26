@@ -14,7 +14,9 @@ FDC 4877
 
 ### MARCO TEÓRICO 
 
+![1 (1)](https://user-images.githubusercontent.com/76136485/109311721-24fa6200-7814-11eb-8c53-3270267d8cf4.png)
 
+![2 (1)](https://user-images.githubusercontent.com/76136485/109311701-1f048100-7814-11eb-9c20-f8b330f646ab.png)
 
 ### DIAGRAMAS
 
