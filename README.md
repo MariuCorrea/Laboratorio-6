@@ -67,9 +67,10 @@ FDC 4877
 
 - Las ondas senoidal nos permite obtener varios valores para la resolución de nuestros circuitos eléctricos de fuente de voltaje o intensidad alternas.
 - Podemos obtener la gráfica de nuestras ondas de tipo senoidal mediante diferentes herramientas como un osciloscopio para poder resolver nuestro circuito eléctrico.
--Los datos que se pueden tener mediante la gráfica de nuestras ondas seno son aproximaciones a nuestros valores reales más nunca van a ser exactos .
+- Los datos que se pueden tener mediante la gráfica de nuestras ondas seno son aproximaciones a nuestros valores reales más nunca van a ser exactos.
 
 ### BIBLIOGRAFÍA
 
 - Floyd, T. L. (2021). Principios De Circuitos Electricos C/Cd Rom (Circuitos ed., Vol. 8) [Libro electrónico]. PRENTICE HALL/PEARSON. http://media.espora.org/mgoblin_media/media_entries/1455/Principios_de_circuitos_electricos.pdf
+- A. (s. f.). ONDAS SINUOIDALES. La fisica y quimica. Recuperado 25de febrero de 2021, https://electronica.guru/questions/511/que-es-una-onda-sinusoidal.
 
