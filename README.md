@@ -65,5 +65,8 @@ FDC 4877
 
 ### CONCLUSIONES
 
+- Las ondas senoidal nos permite obtener varios valores para la resolución de nuestros circuitos eléctricos de fuente de voltaje o intensidad alternas.
+- Podemos obtener la gráfica de nuestras ondas de tipo senoidal mediante diferentes herramientas como un osciloscopio para poder resolver nuestro circuito eléctrico.
+- 
 
 ### BIBLIOGRAFÍA
