@@ -59,8 +59,6 @@ FDC 4877
 
 ![Lista de Componentes](https://user-images.githubusercontent.com/76136485/109244995-b2ef3200-77ad-11eb-89fe-554201578d30.png)
 
-### TABLAS
-
 ### EXPLICACIÓN
 
 [Link Video]( https://www.youtube.com/watch?v=N4_1GuTc3CM)
